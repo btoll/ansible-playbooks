@@ -3,15 +3,11 @@
   version: main
   name: common
 
-- src: https://github.com/btoll/ansible-role-mysql
+- src: https://github.com/btoll/ansible-role-docker
   version: main
-  name: mysql
+  name: docker
 
-- src: https://github.com/btoll/ansible-role-php
+- src: https://github.com/btoll/ansible-role-kubernetes
   version: main
-  name: php
-
-- src: https://github.com/btoll/ansible-role-nginx
-  version: main
-  name: nginx
+  name: kubernetes
 
